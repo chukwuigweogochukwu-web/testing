@@ -1,0 +1,18 @@
+
+Below are the information that was submitted on the website."\n"
+ .fname: 
+lastname:  ogochukwu
+Gender:   on
+DateOfBirth: 
+StateOfOrigin:  
+Qualification:  
+ClassofDegree:  
+Below are the information that was submitted on the website.
+First name: chukwuigwe
+Last name: ogochukwu
+Gender: on
+Date Of Birth: 2025-11-18
+State Of Origin: Enugu
+Qualification: hnd
+Class of Degree: secondClassUpper
+
