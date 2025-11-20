@@ -10,7 +10,7 @@
 </head>
 <body>
  
-<h1 style="margin-left: 200px;">Registration Form</h1>
+
    <div class="container-fluid">
       <div class="row" style="padding-left: 90px;">
          <div class="col-md-6">
